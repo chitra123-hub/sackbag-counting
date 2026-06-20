@@ -30,7 +30,7 @@ print("Frame Shape :", frame.shape)
 
 print("Press any key while First Frame window is selected...")
 
-cv2.waitKey(0)
+#cv2.waitKey(0)
 
-cv2.destroyAllWindows()
+#cv2.destroyAllWindows()
 cap.release()
