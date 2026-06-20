@@ -26,7 +26,7 @@ if not ret:
 
 print("Frame Shape :", frame.shape)
 
-cv2.imshow("First Frame", frame)
+#cv2.imshow("First Frame", frame)
 
 print("Press any key while First Frame window is selected...")
 
